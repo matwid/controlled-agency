@@ -1,0 +1,11 @@
+# OS / Editor noise
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary / local files
+*.swp
+*.tmp
